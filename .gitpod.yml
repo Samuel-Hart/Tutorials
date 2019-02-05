@@ -1,6 +1,6 @@
 
 tasks:
   - command: "npm install @vue/cli &&
-              cd vue-tutorial-default && npm run serve"
+              cd vue-tutorial-default && npm install && npm run serve"
 ports:
 - port: 8080
