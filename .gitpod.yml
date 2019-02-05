@@ -1,0 +1,6 @@
+
+tasks:
+  - command: "npm install -g npm && npm install -g @vue/cli"
+ports:
+- port: 8080
+workspaceLocation: /workspace/Tutorials
