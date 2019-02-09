@@ -15,7 +15,7 @@
     <div class="btn operator">+</div>
     <div @click="append('1')" class="btn">1</div>
     <div @click="append('2')" class="btn">2</div>
-    <div@click="append('3')" class="btn">3</div>
+    <div @click="append('3')" class="btn">3</div>
     <div class="btn operator">-</div>
     <div @click="append('0')" class="btn zero">0</div>
     <div @click="dot()" class="btn">.</div>
